@@ -1,0 +1,3 @@
+[submodule "fds-local-dashboard"]
+	path = fds-local-dashboard
+	url = https://github.com/alegeno92/fds-local-dashboard.git
